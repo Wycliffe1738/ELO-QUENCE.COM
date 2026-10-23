@@ -1,0 +1,73 @@
+
+{
+  "company": {
+    "name": "ELOQUENCE",
+    "tagline": "Achieving greatness",
+    "mission": "To help people and businesses achieve more through technology, intelligent systems, and powerful communication.",
+    "vision": "To become a trusted technology and digital growth company that develops useful products, creates meaningful work, and turns practical learning into sustainable economic opportunities."
+  },
+  "services": [
+    {
+      "id": 1,
+      "name": "Eloquence Words",
+      "icon": "✍",
+      "description": "Clear, persuasive communication for technology companies, startups, and B2B businesses.",
+      "items": [
+        "Website and landing-page copy",
+        "Product messaging and positioning",
+        "Technical articles and explainers",
+        "Email campaigns and founder content"
+      ],
+      "link": "#contact"
+    },
+    {
+      "id": 2,
+      "name": "Eloquence Digital",
+      "icon": "⌘",
+      "description": "Useful digital experiences that help businesses present themselves and serve their customers online.",
+      "items": [
+        "Business websites and landing pages",
+        "Web applications and dashboards",
+        "Customer portals as a future service",
+        "Website maintenance and custom software"
+      ],
+      "link": "#contact"
+    },
+    {
+      "id": 3,
+      "name": "Eloquence Automate",
+      "icon": "⚙",
+      "description": "Practical workflow improvements that reduce repetitive tasks and help businesses work more efficiently.",
+      "items": [
+        "Customer enquiry workflows",
+        "Appointment and booking processes",
+        "Email notifications and follow-ups",
+        "Reporting and carefully selected AI integrations"
+      ],
+      "link": "#contact"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Business Website Concept",
+      "category": "Eloquence Digital",
+      "description": "A responsive website concept that introduces a business, explains its services, and guides visitors toward an enquiry.",
+      "status": "Concept"
+    },
+    {
+      "id": 2,
+      "title": "Technology Content Samples",
+      "category": "Eloquence Words",
+      "description": "Sample website messaging and technical explanations designed to make digital products easier to understand.",
+      "status": "Concept"
+    },
+    {
+      "id": 3,
+      "title": "Enquiry Workflow Concept",
+      "category": "Eloquence Automate",
+      "description": "A proposed workflow for organizing customer enquiries and planning follow-up notifications.",
+      "status": "Concept"
+    }
+  ]
+}
